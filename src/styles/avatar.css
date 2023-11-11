@@ -1,0 +1,34 @@
+/* .loginButt{
+    background-color: red;
+    color: black;
+} */
+/* .avt-box{
+    background-color: gray;
+}
+.avt-box2{
+    background-color: gray;
+} */
+.btn{display: flex;
+    gap: 5px;
+    padding-top: 10px;
+}
+.up-btn{
+    padding: 5px;
+    border-radius: 20px;
+    width: 150px;
+    background-color: #0786ed;
+    border: none;
+}
+
+.log-btn{
+    padding: 5px;
+    border-radius: 20px;
+    width: 150px;
+    background-color: #0786ed;
+    border: none;
+}
+
+.up-btn:hover, .log-btn:hover{
+    color: aliceblue;
+    background-color: #044479;
+}

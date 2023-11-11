@@ -1,0 +1,34 @@
+/* -----------------------------------------Navigation----------------------------------------------------------------------- */
+
+/* ----------------------------------------------basic layout of site------------------------------------------------------------------------ */
+
+/* ----------------------------------------------Aside------------------------------------------------------------------------ */
+
+
+
+
+/* -------------------------------------------------------------------------------------------------- */
+
+.backBtn2{
+  position: absolute!important;
+  top:3vh!important;
+  left:1vw;
+}
+.mix{font-weight:600!important;}
+
+
+
+.css-wjh20t-MuiPagination-ul li button{
+  color: white !important;
+}
+
+.active:hover{
+  background-color: yellow !important;
+}
+
+/* .mood_category button{
+  background-color: yellow !important;
+ border: none!important;
+} */
+
+
